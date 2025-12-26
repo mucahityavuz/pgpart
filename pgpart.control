@@ -1,0 +1,5 @@
+# basic metadata
+comment = 'Partition management extension'
+default_version = '1.0'
+relocatable = false
+schema = 'pgpart'
